@@ -63,8 +63,23 @@ Barlow Semi Condensed, Bold for the word and Medium for the social
 preview's lines, under the SIL Open Font License
 (`src/fonts/OFL.txt`). Barlow draws on California's highway signs,
 which suits a project about guardrails. The word is outlines, not
-set text, so no output file needs the font installed. It is written
-in lower case, like the command.
+set text, so no output file needs the font installed.
+
+## The name
+
+In text the name is always **Hostwarden**, capitalized like any
+other proper noun, wherever it stands in a sentence or a title. Only
+the wordmark writes it in lower case, and so does anything that is
+spelled as an identifier: the command, a path, a repository
+(`hostwarden/hostwarden`). An image of the wordmark gets
+`alt="Hostwarden"`.
+
+The two follow different jobs. In a sentence the capital tells the
+reader that this is a name and not a common noun. The wordmark
+stands next to the tower, and there a capital H, two stems and a
+crossbar, repeats the tower's block and its courses, so the word
+starts with a second tower. The lower-case h has a single stem and
+leaves the tower to be the mark. It also matches what a user types.
 
 ## Rules
 
