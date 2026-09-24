@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.png binary
+*.ttf binary
+
+# Written by src/generate.py; collapsed in pull request diffs.
+svg/** linguist-generated=true
+png/** linguist-generated=true
